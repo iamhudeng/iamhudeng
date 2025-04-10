@@ -1,4 +1,3 @@
-Hi, I'm iamhudeng (aka hudeng).
 I started github to make my own website.
 I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 How about visiting my Youtube channel too?
@@ -6,16 +5,15 @@ https://www.youtube.com/@hudeng
 
 # 🌸 Asaki Yuki's GitHub Profile
 
-![Profile Views](https://komarev.com/ghpvc/?username=AsakiYuki&label=Profile%20views&color=brightgreen&style=flat)
-
 ---
 
 ## 👋 Introduction
 
-Hi, I’m **Asaki Yuki** (Real name: *Trọng*)  
-I'm a passionate programmer living in **🇻🇳 Vietnam**.
+Hi, I’m **iamhudeng** (aka: *hudeng*)  
+I'm a highschool student living in **South Korea**.
 
-I love crafting code, solving problems, and continuously learning new things.
+I started github to make my own website.
+I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 
 ---
 
