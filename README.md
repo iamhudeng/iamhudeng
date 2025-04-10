@@ -9,7 +9,7 @@ https://www.youtube.com/@hudeng
 
 ## 👋 Introduction
 
-Hi, I’m **iamhudeng** (a.k.a. *hudeng*)  
+Hi, I’m **iamhudeng** (a.k.a. *hudeng*)
 I'm a Science Highschool student living in **South Korea**.
 
 I started github to make my own website!
@@ -20,7 +20,7 @@ I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=iamhudeng&theme=gruvbox&column=7&margin-w=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamhudeng&theme=gruvbox&column=1&margin-w=10&no-frame=true"/>
 </p>
 
 <p align="center">
