@@ -9,10 +9,10 @@ https://www.youtube.com/@hudeng
 
 ## 👋 Introduction
 
-Hi, I’m **iamhudeng** (aka: *hudeng*)  
-I'm a highschool student living in **South Korea**.
+Hi, I’m **iamhudeng** (a.k.a. *hudeng*)  
+I'm a Science Highschool student living in **South Korea**.
 
-I started github to make my own website.
+I started github to make my own website!
 I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 
 ---
