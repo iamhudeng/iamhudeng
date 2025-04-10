@@ -22,12 +22,12 @@ I love crafting code, solving problems, and continuously learning new things.
 ## 🏆 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AsakiYuki&theme=gruvbox&column=7&margin-w=10&no-frame=true"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=iamhudeng&theme=gruvbox&column=7&margin-w=10&no-frame=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AsakiYuki&show_icons=true&theme=tokyonight" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AsakiYuki&layout=compact&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=iamhudeng&show_icons=true&theme=tokyonight" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamhudeng&layout=compact&theme=tokyonight" width="48%"/>
 </p>
 
 ---
