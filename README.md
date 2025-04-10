@@ -24,8 +24,7 @@ I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 
 ## 📫 Contact
 
-- 📧 Email: **https://www.youtube.com/@hudeng**
-[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hudeng)
+- [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hudeng) : **https://www.youtube.com/@hudeng**
 ---
 
 <p align="center"><b>-- 🌟 Let's learn! --</b></p>
