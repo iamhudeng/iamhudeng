@@ -3,7 +3,7 @@ I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 How about visiting my Youtube channel too?
 https://www.youtube.com/@hudeng
 
-# 🌸 Asaki Yuki's GitHub Profile
+# 🌸 Iamhudeng's GitHub Profile
 
 ---
 
@@ -44,9 +44,8 @@ I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 
 ## 📫 Contact
 
-- 📧 Email: **your.email@example.com**  
-- 💼 LinkedIn: [YourProfile](https://linkedin.com/in/yourprofile) *(선택사항)*
+- 📧 Email: **https://www.youtube.com/@hudeng**
 
 ---
 
-<p align="center"><b>-- 🌟 Wish you a good day! --</b></p>
+<p align="center"><b>-- 🌟 Let's learn! --</b></p>
