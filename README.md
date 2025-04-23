@@ -5,6 +5,8 @@
 
 <h2 align="center">🌟Creativity is Infinity!🌟</h2>
 
+---
+
 ## 👋 Introduction
 
 Hi, I’m **iamhudeng** (a.k.a. *hudeng*)  
