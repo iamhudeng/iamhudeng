@@ -27,4 +27,4 @@ I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hudeng)
 ---
 
-<p align="center"><b><span style="font-size: 24px;">-- 🌟Creative is Infinity! --</span></b></p>
+<h2 align="center">🌟Creative is Infinity!🌟</h2>
