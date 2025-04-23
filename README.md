@@ -3,6 +3,8 @@
 
 ---
 
+<h2 align="center">🌟Creativity is Infinity!🌟</h2>
+
 ## 👋 Introduction
 
 Hi, I’m **iamhudeng** (a.k.a. *hudeng*)  
@@ -26,5 +28,3 @@ I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
 
 [![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@hudeng)
 ---
-
-<h2 align="center">🌟Creativity is Infinity!🌟</h2>
