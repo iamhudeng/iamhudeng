@@ -8,8 +8,7 @@
 ---
 
 ## 👋 Introduction
-## Hi there!
-I’m **iamhudeng** (a.k.a. *hudeng*)  
+Hi, I’m **iamhudeng** (a.k.a. *hudeng*)
 I'm a Science Highschool student living in **South Korea**.
 
 I started github to make my own website!  
