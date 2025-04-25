@@ -13,11 +13,11 @@ Hi, I’m **iamhudeng** (a.k.a. *hudeng*)
 I'm a Science Highschool student living in **South Korea**.
 
 I started github to make my own website!  
-I love Minecraft (especially BE), so I'm currently learing about '3D modeling'.
+I love Minecraft (especially Bedrock Edition), so I'm currently learing about '3D modeling'.
 
 ---
 
-## 🏆 GitHub Stats
+## 🏆 Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=iamhudeng&show_icons=true&theme=tokyonight" width="48%"/>
